@@ -1,0 +1,7 @@
+{
+  "name": "Ayat Real Estate Voice Agent",
+  "description": "A conversational AI voice agent for Ayat Real Estate in Ethiopia, capable of speaking Amharic and handling property inquiries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
